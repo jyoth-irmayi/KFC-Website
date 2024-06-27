@@ -1,0 +1,335 @@
+.header{
+    width: 100%;
+    height: 145px;
+    margin-bottom: 0%;
+    align-items: center;
+    font-size: bold;
+}
+.location{
+    height: 45px;
+    background-color:#fff;
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: rgb(201, 189, 189);
+}
+.abc{
+    margin-left: 450px;
+}
+.text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #202124;
+    font-family: "National 2 Regular"; 
+}
+.button{
+   
+    background: black;
+    color: #fff;
+    border-radius: 15px;
+    width: 95px;
+    height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 5px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+.kfc{
+    width: 50%px;
+    height: 74px;
+    padding-left: 100px;
+    padding-top: 25px;
+    cursor: pointer;
+    background-color: #fff;
+    display: flex;
+}
+.text1{
+    font-weight: bold;
+    cursor: pointer;
+    color: #202124;
+    margin: 0;
+    position: relative;
+    text-decoration: none;
+    margin-left: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 12px;
+}
+.logo{
+    width: 50%;
+    height: 74px;
+    background-color:#fff;
+}
+.sign{
+    width: 50%px;
+    float: left;
+    cursor: pointer;
+    background-color:#fff;
+    margin-right: 20px;
+}
+.menu{
+    text-decoration: none;
+    color: #202124;
+    font-weight:bold;
+    font-family:monospace ;
+    font-size: 14px;
+    cursor: pointer;
+    padding-top:30px ;
+
+}
+.image{
+    padding-left: 300px;
+    padding-top: 30px;
+}
+.border{
+    background-color: #aab1ae;
+    height: 30px;
+    width: 1px;
+    margin-top: 25px;
+}
+.leftlogo{
+    height: 74px;
+    width: 180px;
+    background-color: #fff;
+    display: flex;
+}
+.leftlogo1{
+    color: black;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.leftlogo2{
+    width: 50px;
+    position: relative;
+}
+.imagetext{
+    position: absolute;
+    margin-left: 47px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.body{
+    width: 100%;
+    height: 1400px;
+    background-color:#fff;
+}
+.order{
+    background-color: #232222;;
+    height: 65px;
+}
+.order1{
+    color: #fff;
+    padding-left: 455px;
+    font-size: 17px;
+    font-weight: bold;
+    font-family:monospace
+}
+.btn{
+    background-color: crimson;
+    color:#fff;
+    width: 155px;
+    height: 45px;
+    border-radius: 25px;
+    margin-left: 20px;
+}
+.kpicture{
+    width: 100%;
+}
+.brows{
+   font-weight: normal;
+    font-size: 30px;
+    font-family: fantasy;
+    padding-left: 200px;
+}
+.space{
+    height: 100px;
+    background-color: #fff;
+}
+.burger{
+    width: 270px;
+    padding-left: 200px;
+    padding-top: 70px;
+    height: 200px;
+}
+.match{
+    width: 270px;
+    padding-left: 20px;
+    padding-top: 70px;
+    height: 200px;
+}
+.caption{
+    text-decoration: none;
+    font-family: serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    padding-left: 210px;
+}
+.day{
+    text-decoration: none;
+    font-family: serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    padding-left: 70px;
+}
+.match1{
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 70px;
+    height: 150px;
+}
+.menu{
+    padding-left: 50px;
+}
+.footer{
+    background-color: #232222;;
+    height: 1300px;
+    width: 2000px;
+}
+.word{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "National 2 Condensed";
+    padding-left: 200px;
+   margin-top:70px;
+}
+.offers{
+    height: 240px;
+    width: 305px; 
+}
+.offer{
+    height: 400px;
+    height: 240px;
+    padding-left: 20px;
+}
+.white{
+    height: 400px;
+    width: 305px;
+    margin-left: 200px;
+    background-color: #fff;
+
+}
+.black{
+    height: 200px;
+    background-color:#232222;;
+}
+.chick{
+    color: red;
+    padding-left: 30px;
+    font-size: 27px;
+    font-weight: bold;
+}
+.vd{
+    color: black;
+    padding-left: 20px;
+}
+.bt1{
+    margin-left: 40px;
+    border-radius: 30px;
+    width: 140px;
+    height: 45px;
+}
+.white1{
+    height: 400px;
+    width: 305px;
+    background-color: #fff;
+    margin-left: 40px;
+}
+.redbox{
+    display: flex;
+    background-color: #232222;;
+}
+.p1{
+    height: 43px;
+    width: 16px;
+    margin-left: 200px;
+    background-color: red;
+}
+.p2{
+    background-color:red;
+    height: 43px;
+    width: 16px;
+    margin-left: 18px;
+}
+.p3{
+    height: 43px;
+    width: 16px;
+    margin-left:18px;
+    background-color: red;
+}
+.viewdetails{
+    margin-left: 500px;
+    color: white;
+    cursor: pointer;
+}
+.black1{
+    height: 540px;
+    background-color:#232222;;
+    display: flex;
+}
+.lad{
+    margin-top: 200px;
+    margin-left: 160px;
+}
+.tables{
+    color: #fff;
+    margin-top: 200px;
+}
+.color{
+    background-color:#232222;;
+    width: 300px;
+    height: 560px;
+}
+.tabless{
+    background-color:#232222;;
+    width: 600px;
+    height: 560px;
+
+}
+.logoz{
+    background-color:#232222;;
+    height:560px ;
+    width: 200px;
+}
+.footterbottom{
+    height: 560px;
+    width:2000PX;
+    display: flex;
+}
+.rr{
+    margin-top: 200px;
+}
+.findkfc{
+    color: #fff;
+    margin-left: 30px;
+}
+.last{
+    background-color:#232222;;
+    width: 440px;
+}
+.last1{
+    margin-top: 200px;
+}
+.last2{
+    margin-left: 10px;
+}
+.extra{
+    background-color: #fff;
+    width: 1000px;
+    height: 1px;
+    margin-left: 250px
+}
+.final{
+    color: aliceblue;
+    padding-left: 100px;
+}
+.final1{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.final2{
+    margin-top: 200px;
+}
